@@ -1,0 +1,9 @@
+{
+    "name": "First Mod",
+    "mod_id": "FirstMod",
+    "author": "DM",
+    "description": "I'm getting started with modding Astroneer!",
+    "version": "0.1.0",
+    "astro_build": "1.19.0.0",
+    "sync": "serverclient"
+}
